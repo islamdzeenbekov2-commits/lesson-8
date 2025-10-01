@@ -1,0 +1,21 @@
+.item {
+    width: 500px;
+    height: 500px;
+    border-radius: 0px 5px 10px black;
+    background-color: aqua;
+    font-size: 15px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 100px aqua;
+    text-align: center;
+}
+
+.item h2 {
+    font-size: 170px;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 200px;
+}
